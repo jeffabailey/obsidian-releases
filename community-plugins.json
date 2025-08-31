@@ -18233,5 +18233,13 @@
     "author": "Rootiest",
     "description": "Extracts text from images using AI Vision models.",
     "repo": "rootiest/obsidian-ai-image-ocr"
-  }
+  },
+  {
+    "id": "task-log",
+    "name": "Task Log",
+    "author": "jeffbailey",
+    "description": "Automatically log completed tasks to a dedicated file with timestamps and source information.",
+    "repo": "jeffbailey/obsidian-task-log",
+    "branch": "main"
+  }  
 ]
